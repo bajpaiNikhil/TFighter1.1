@@ -1,0 +1,2 @@
+rootProject.name = "TFighter1.1"
+include ':app'
